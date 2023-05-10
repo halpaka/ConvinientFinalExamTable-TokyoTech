@@ -1,0 +1,4 @@
+# ConvinientFinalExamTable-TokyoTech
+大学が公開している期末試験表を基にGoogleFormに科目コードを入力するとその授業の期末の予定をメールで返信するものです
+
+csvファイルも追加で送信するため、Googleカレンダーにインポートすればカレンダーにその予定を反映してくれます
